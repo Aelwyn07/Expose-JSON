@@ -1,0 +1,22 @@
+{
+"etudiants":[
+{
+    "nom": "nom 1", 
+    "prenom": "prenom 1", 
+    "age": 14, 
+    "classe": "classe 1"
+},
+{
+    "nom": "nom 2", 
+    "prenom": "prenom 2", 
+    "age": 41, 
+    "classe": "classe 2"
+},
+{
+    "nom": "nom 3", 
+    "prenom": "prenom 3", 
+    "age": 41, 
+    "classe": "classe 3"
+}
+]
+}
